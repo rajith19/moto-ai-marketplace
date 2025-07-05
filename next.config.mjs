@@ -19,7 +19,7 @@ const nextConfig = {
         headers: [
           {
             key: "Content-Security-Policy",
-            value: "frame-src 'self' https://roadsidecoder.created.app;",
+            value: "frame-src 'self' https://moto-ai.created.app;",
           },
         ],
       },
